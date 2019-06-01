@@ -1,2 +1,2 @@
 #Repository to learn Django 
-Polls tutorial 
+#Polls tutorial 
